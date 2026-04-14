@@ -502,4 +502,4 @@ var src_min = "images/min/";
 // The max resolution images (Use the same if there are no higher resolution ones available)
 var src_max = "images/max/";
 // The local source for the image (used in commands)
-var src_local = "https://raw.githubusercontent.com/IntellectualSites/HeightMap/main/images/_min/";
+var src_local = "https://darkvodou.github.io/HeightMap/images/max/";
